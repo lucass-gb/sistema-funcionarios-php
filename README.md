@@ -12,4 +12,4 @@ Projeto desenvolvido para praticar PHP e Programação Orientada a Objetos.
 - Cadastro de funcionários
 - Cálculo de salário líquido
 - Cálculo de média salarial
-- Gerenciamento por departament
+- Gerenciamento por departamento
